@@ -25,12 +25,8 @@
 
 * ✉️ **И-мэйл:** lkhagvaamind@gmail.com
 * 💼 **Утас:** +976 85991625
-### 📊 Миний хийсэн интерактив төслүүд (Interactive Portfolios)
+## 📊 Миний хийсэн интерактив төслүүд (Interactive Portfolios)
 
-* 🚜 **[Fleet Metrics Dashboard (Live Web App)](https://lkhagvaamind-arch.github.io/sales-dashboard/)**
-  * *Ашигласан технологи:* HTML, JavaScript, CSS, Data Visualization
-  * *Тодорхойлолт:* Уул уурхайн тоног төхөөрөмжийн ашиглалт, бэлэн байдал болон операцийн KPI-уудыг харуулсан интерактив веб дашборд.
-[![Mining Dashboard](ЗУРГИЙН ЧИНЬ ЛИНК ЭНД БАЙНА)](https://lkhagvaamind-arch.github.io/Sales-Dashboard/)
-<a href="https://lkhagvaamind-arch.github.io/Sales-Dashboard/" target="_blank">
-  <img src="ЭНД_ДЭЭР_ХУУЛСАН_ЗУРГИЙНХАА_ШУУД_ЛИНКИЙГ_ТАВИНА" alt="Mining Fleet Metrics Dashboard">
-</a>
+* 🚜 [Fleet Metrics Dashboard (Live Web App)](https://lkhagvaamind-arch.github.io/Sales-Dashboard/)
+    * *Ашигласан технологи:* HTML, JavaScript, CSS, Data Visualization
+    * *Тодорхойлолт:* Уул уурхайн тоног төхөөрөмжийн ашиглалт, бэлэн байдал болон операцийн KPI-уудыг харуулсан интерактив веб дашборд.
