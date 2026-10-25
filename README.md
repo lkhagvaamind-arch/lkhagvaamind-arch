@@ -33,3 +33,6 @@
   <a href="https://lkhagvaamind-arch.github.io/sales-dashboard/" target="_blank">
   <img src="ЗУРАГНЫХАА_УРТ_ЛИНКИЙГ_ЭНД_ТАВИНА" alt="Fleet Metrics Dashboard">
 </a>
+<a href="https://lkhagvaamind-arch.github.io/lkhagvaamind-arch/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/урт-зургийн-линк" alt="Fleet Metrics Dashboard">
+</a>
