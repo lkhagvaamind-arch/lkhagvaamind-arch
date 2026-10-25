@@ -31,5 +31,4 @@
   * *Ашигласан технологи:* HTML, JavaScript, CSS, Data Visualization
   * *Тодорхойлолт:* Уул уурхайн тоног төхөөрөмжийн ашиглалт, бэлэн байдал болон операцийн KPI-уудыг харуулсан интерактив веб дашборд.
   [![Fleet Metrics Dashboard](preview.png)](https://lkhagvaamind-arch.github.io/sales-dashboard/)
-  [![Fleet Metrics Dashboard](preview.png)](https://lkhagvaamind-arch.github.io/sales-dashboard/)
-  
+ 
