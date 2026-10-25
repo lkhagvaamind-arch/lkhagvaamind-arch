@@ -30,6 +30,4 @@
 * 🚜 **[Fleet Metrics Dashboard (Live Web App)](https://lkhagvaamind-arch.github.io/sales-dashboard/)**
   * *Ашигласан технологи:* HTML, JavaScript, CSS, Data Visualization
   * *Тодорхойлолт:* Уул уурхайн тоног төхөөрөмжийн ашиглалт, бэлэн байдал болон операцийн KPI-уудыг харуулсан интерактив веб дашборд.
-<a href="https://lkhagvaamind-arch.github.io/Sales-Dashboard/" target="_blank">
-  <img src="ЗУРГИЙН ЧИНЬ ЛИНК ЭНД БАЙНА" alt="Mining Fleet Metrics Dashboard">
-</a>
+[![Mining Dashboard](ЗУРГИЙН ЧИНЬ ЛИНК ЭНД БАЙНА)](https://lkhagvaamind-arch.github.io/Sales-Dashboard/)
